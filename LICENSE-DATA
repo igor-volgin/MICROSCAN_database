@@ -1,0 +1,44 @@
+MICROSCAN DATA AND DOCUMENTATION LICENSE
+
+Copyright (c) 2026 MICROSCAN contributors
+
+Except where otherwise stated, the MICROSCAN database, associated metadata,
+documentation, README files, and project-generated figures are licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+License summary:
+https://creativecommons.org/licenses/by/4.0/
+
+Full legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Under this license, the covered materials may be copied, redistributed,
+adapted, transformed, and used for any purpose, including commercial purposes,
+provided that users:
+
+1. give appropriate credit to the MICROSCAN contributors;
+2. identify the Creative Commons Attribution 4.0 International License and
+   provide a link to it;
+3. indicate whether changes were made; and
+4. do not imply endorsement by the MICROSCAN contributors.
+
+Recommended attribution:
+
+MICROSCAN: FTIR Spectral Database Processing and Analysis, Zenodo, https://doi.org/10.5281/zenodo.15277130 (licensed under CC BY 4.0).
+
+SCOPE AND EXCLUSIONS
+
+This license applies only to materials for which the MICROSCAN contributors
+hold the necessary rights.
+
+Software source code developed for this project is not covered by this file.
+Unless otherwise stated, such code is licensed under the Apache License,
+Version 2.0, as described in the LICENSE-CODE file.
+
+Third-party software, data, images, and other materials remain subject to their
+original licenses and copyright notices. In particular, files in
+3_applying_CNN1D (except CNN1D_application.ipynb) originate from or are based on the mPSAT project
+remain subject to the applicable notices and Apache License 2.0 terms provided
+by their original authors:
+
+https://github.com/zhengGroupDEV/mPSAT
